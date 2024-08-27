@@ -1,5 +1,5 @@
 ## HCMUS-Applied-math
-All the labs work in Applied Math
+Labs homework of Applied Math
 
 Feedbacks:
 # LAB 01:
